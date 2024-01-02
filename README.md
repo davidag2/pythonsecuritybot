@@ -32,4 +32,5 @@ Thanks to all the contributors who have invested their time into improving the b
 Special thanks to open-source projects that provided the necessary tools and libraries.
 
 Contact
-For any queries or further assistance
+
+For any queries or further assistance.
